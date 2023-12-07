@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "sname": "Ishtiaq khan",
+      "email": "ishtiaq@gmail.com"
+    },
+    {
+      "id": 2,
+      "sname": "SAQLAIN khan",
+      "email": "saqlain@gmail.com"
+    },
+    {
+      "id": 3,
+      "sname": "zulqarnain khan",
+      "email": "zulqarnain@gmail.com"
+    },
+    {
+      "sname": "sameer Abbas",
+      "email": "sameer@gmail.com",
+      "id": 4
+    }
+  ]
+}
